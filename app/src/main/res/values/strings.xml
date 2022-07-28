@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Intent_Game</string>
+    <string-array name="list_name">
+        <item>ab1</item>
+        <item>ab2</item>
+        <item>ab3</item>
+        <item>ab4</item>
+        <item>ab5</item>
+        <item>ab6</item>
+        <item>ab7</item>
+        <item>ab8</item>
+        <item>ab9</item>
+        <item>ab10</item>
+        <item>ab11</item>
+        <item>ab12</item>
+    </string-array>
+</resources>
